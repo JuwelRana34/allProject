@@ -10,14 +10,14 @@
         "link":"https://dontate-today.netlify.app/"
     },
     {
+        "title":"bidding hub",
+        "image": "1ua45q0741kH4DiQJsHJhvtFhKmIKRI4Q",
+        "link":"https://player-bidding-hub.netlify.app/"
+    },
+    {
         "title":"G3-ARCHITECTS",
         "image": "12Fj2f7hawUIbb1iSW7V4yGP0RuZRuhhS",
         "link":"https://g4-architects.netlify.app/"
-    },
-    {
-        "title":"simple-web",
-        "image": "1RQwMDSDOc7X739dKeY_IL5FA_wz0udP6",
-        "link":"https://programming-hero-assingment.netlify.app/"
     },
     {
         "title":"jnuits.org.bd",
@@ -25,14 +25,24 @@
         "link":"https://static.jnuits.org.bd/"
     },
     {
-        "title":"jnuihc18",
+        "title":"jnuIHC18",
         "image": "1EmYlY8-RmkkOoxBSxAKZIL4ULxNCuomI",
-        "link":"https://jnuihc18.netlify.app/"
+        "link":"https://jnuihc.netlify.app/"
     },
     {
         "title":"Brand House",
         "image": "1LV8d4JudC7KIwXxI7VPm0hxQ4cS7g-L7",
         "link":"https://juwelrana34.github.io/Brandhouse/"
+    },
+    {
+        "title":"pet adoption",
+        "image":"13O89Rt4A7P-bz6lHl-PzwJfM6NUs2rW7",
+        "link":"https://peddy-adoption.netlify.app/"
+    },
+    {
+        "title":"simple-web",
+        "image": "1RQwMDSDOc7X739dKeY_IL5FA_wz0udP6",
+        "link":"https://programming-hero-assingment.netlify.app/"
     }
    
 ]
